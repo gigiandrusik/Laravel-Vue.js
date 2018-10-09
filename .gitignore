@@ -1,0 +1,13 @@
+.idea
+**ide-helper*
+*ide_helper*
+.phpstorm*
+.env
+public/storage
+storage/api-docs
+composer.lock
+package-lock.json
+composer.phar
+/node_modules
+/vendor
+.DS_Store
